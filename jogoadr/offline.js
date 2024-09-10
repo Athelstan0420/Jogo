@@ -1,0 +1,31 @@
+﻿{
+	"version": 1726009776,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/personagem-sheet0.png",
+		"images/personagem-sheet1.png",
+		"images/personagem-sheet2.png",
+		"images/chao.png",
+		"images/espinho.png",
+		"images/céu.png",
+		"images/inimigo-sheet0.png",
+		"images/bandeira-sheet0.png",
+		"images/sol.png",
+		"images/núvem.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/prego-sheet0.png",
+		"images/hp-sheet0.png",
+		"media/y2meta.com-aruh-metal-slug-3-into-the-cosmos-_cover_-_64-kbps_.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
